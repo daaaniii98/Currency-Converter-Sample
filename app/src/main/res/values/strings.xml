@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Challenge</string>
+    <string name="icon">Icon</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection_desc">Need active internet connection</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="fill_all_data_first">You need to enter amount &amp; select currency</string>
+    <string name="server_error_desc">Unable to connect to server</string>
+    <string name="server_error">Server Error</string>
+    <string name="no_data_desc">We are unable to found any currencies</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="error_occurred">An Error Occurred</string>
+    <string name="filed_empty_error">Cannot be empty</string>
+    <string name="please_wait">Please wait</string>
+    <string name="logout">Logout</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="amount">Enter Amount</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_margin_dimen">10dp</dimen>
+    <dimen name="normal_corner_radius">12dp</dimen>
+    <dimen name="info_icon_size">140dp</dimen>
+
+    <dimen name="size_tinyish">2dp</dimen>
+    <dimen name="size_tiny">4dp</dimen>
+    <dimen name="size_tiny_plus">6dp</dimen>
+    <dimen name="size_small">8dp</dimen>
+    <dimen name="size_medium">12dp</dimen>
+    <dimen name="size_general">16dp</dimen>
+    <dimen name="text_big">20sp</dimen>
+</resources>
