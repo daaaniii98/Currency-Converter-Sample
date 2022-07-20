@@ -1,4 +1,4 @@
-# Sample App
+# Currency Converter Sample App
 
 Architecture Pattern: **MVVM**
 
